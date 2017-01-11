@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html class="ie8 no-js" lang="en">    
+<html class="not-ie no-js" lang="en"> 
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	
+	<title>KLU-IEEE SB</title>
+	<LINK rel="shortcut icon" href="favicon.ico"><LINK rel="icon" type="image/x-icon" href="images/favicon.ico">	
+	<meta name="IEEE KLU SB" content="KLU, kl university, IEEE, vijayawada, Andhra pradesh, ap, college,klu, koneru lakshmaiah, university, student body,klce,">	
+	<!--[if !lte IE 6]><!-->
+		<link rel="stylesheet" href="css/style.css" media="screen" />
+
+		<link rel="stylesheet" href="css/css6f7d.css?family=Open+Sans:400,600,300,800,700,400italic|PT+Serif:400,400italic" />
+		
+		<link rel="stylesheet" href="css/fancybox.min.css" media="screen" />
+
+		<link rel="stylesheet" href="css/video-js.min.css" media="screen" />
+
+		<link rel="stylesheet" href="css/audioplayerv1.min.css" media="screen" />
+	<!--<![endif]-->
+
+	
+<style>
+div.floating-event {position:fixed;background:white;border:3px solid black;width:150px;z-index:200;}
+div.floating-event a, div.floating-menu h3 {display:block;margin:0 0.5em;}
+</style>
+	
+</head>
+<body>
+<div class="floating-event">
+<h4>UPCOMING EVENTS</h4><hr><h6>
+<a href="http://www.ewh.ieee.org/sb/hyderabad/klce/ev-upcmn.html">1.Certified Program on Matlab-Simulinks</a>
+</h6>
+</div>
+
+<header id="header" class="container clearfix">
+
+
+
+	<nav id="main-nav">
+		
+		<ul>
+			<li class="current">
+				<a href="index.html" data-description="All starts here">Home</a>
+				
+			</li>
+			<li>
+				<a href="#" data-description="all about us">About us</a>
+				<ul>
+					<li><a href="about-us.html">IEEE HISTORY</a></li>
+					<li><a href="about-klu.html">K L UNIVERSITY</a></li>
+					<li><a href="about-sb.html">IEEE KLUSB</a></li>
+					<li><a href="about-hy.html">IEEE HYDERABAD SECTION</a></li>
+					<li><a href="about-r10.html">REGION 10</a>
+						
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="#" data-description="Know about our sb">Branch Panorama</a>
+				<ul>
+					<li><a href="brnch-cnst.html">BRANCH CONSTITUTION</a></li>
+					<li><a href="brnch-excom.html">BRANCH EXECOMM</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#" data-description="all about our Chapter">Chapters</a>
+				<ul>
+					<li><a href="wie.html">WIE</a></li>
+					
+				</ul>
+			</li>
+			<li>
+				<a href="#" data-description="Work we are proud of">Events</a>
+				<ul>
+					<li><a href="#">IEEE KLUSB</a>
+					<ul>
+							<li><a href="ev-past.html">Past</a></li>
+							<li><a href="ev-upcmn.html">UP Coming</a></li>
+							
+						</ul>
+					
+					
+					
+					</li>
+					<li><a href="http://www.ieeehyd.org/main/category/events/" target="_blank">HYDERABAD SECTION</a></li>
+					<li><a href="ev-out.html">IEEE OUT REACH</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#" data-description="join in discussion">FORUM</a>
+				<ul>
+					<li><a href="https://www.facebook.com/kluieee" target="_blank">IEEE KLUSB FACEBOOK GROUP</a></li>
+					<li><a href="forum-dis.html">DISCUSSION FORUM</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="contact.html" data-description="contact us">REACH OUT</a>
+			</li>
+		</ul>
+
+	</nav>
+	
+</header>
+
+<section id="content" class="container clearfix">
+
+     
+	<section id="features-slider" class="ss-slider">
+	
+		<article class="slide">
+		
+			<img src="img/sliders/features-slider/features_img_1.jpg" alt="" class="slide-bg-image" />
+			
+			<div class="slide-button">
+				
+				<h5>IEEE</h5>
+				<span class="description">The Institute of Electrical and Electronics Engineers </span>
+			</div>
+		
+			<div class="slide-content">
+				<h2>IEEE</h2>
+				<p>IEEE appeared from the union of two engineering societies in the early sixties, the IRE (Institute of Radio Engineers) and the AIEE (American Institute of Electrical Engineers). The IEEE is a society for Electrical and Computer Engineers, but that also welcomes Computer Scientists and Physicists. 
+IEEE is what is known as a technical professional society. Every engineering branch has a technical professional society, Civil Engineering has ASCE (American Society of Civil Engineers), and Mechanical Engineering has ASME (American Society of Mechanical Engineers).
+</p>
+				
+			</div>
+			
+		</article><!-- end .slide (Responsive Layout) -->
+	
+		<article class="slide">
+		
+			<img src="img/sliders/features-slider/features_img_2.jpg" alt="" class="slide-bg-image" />
+		
+			<div class="slide-button">		
+			
+				<h5>IEEE(cont.)</h5>
+				<span class="description">The Institute of Electrical and Electronics Engineers</span>
+			</div>
+			
+			<div class="slide-content">
+				
+				<p>What distinguishes IEEE from this other societies is that IEEE is International. There are IEEE chapters in every continent, and in almost every country, and in those countries where IEEE is not established it has links with the local engineering societies, such is the case with IKE (Institution of Electrical Engineers) in the United Kingdom of Great Britain and Northern Ireland. This makes IEEE the largest engineering society in the world.</p>
+			
+			</div>
+			
+		</article><!-- end .slide (HTML5 / CSS3) -->
+	
+		<article class="slide">
+		
+			<img src="img/sliders/features-slider/features_img_1.jpg" alt="" class="slide-bg-image" />
+		
+			<div class="slide-button">
+		
+				<h5>Benefits</h5>
+				<span class="description">Benfits with IEEE</span>
+			</div>
+			
+			<div class="slide-content">
+				<h2>IEEE Benefits</h2>
+				<p>
+				•	Spectrum,  monthly magazine of IEEE (single &nbsp;&nbsp;&nbsp;&nbsp;copy costs $4 ,It is FREE with Member &nbsp;&nbsp;&nbsp;&nbsp;Subscription)<br>
+				•	All Technical papers are freely accessible to &nbsp;&nbsp;&nbsp;&nbsp;IEEE members<br>
+				•	It gives you International Recognition as a &nbsp;&nbsp;&nbsp;&nbsp;member of most active technical &nbsp;&nbsp;&nbsp;&nbsp;organization(IEEE)<br>
+				•	Helps you do research, get recognition & &nbsp;&nbsp;&nbsp;&nbsp;publish your work to the whole world<br>
+				•	Get a personal alias email id eg. &nbsp;&nbsp;&nbsp;&nbsp;ur_name@ieee.org<br>
+				•	Adds value to your resume<br>
+				•	Entry in various international events like IEEE &nbsp;&nbsp;&nbsp;&nbsp;Xtreme,etc.
+
+				</p>
+				
+			</div>
+			
+		</article><!-- end .slide (Easily Customisable) -->
+	
+		<article class="slide">
+		
+			<img src="img/sliders/features-slider/features_img_3.jpg" alt="" class="slide-bg-image" />
+		
+			<div class="slide-button">
+		
+				<h5>Benefits</h5>
+				<span class="description">Benfits with IEEE</span>
+			</div>
+			
+			<div class="slide-content">
+				
+				<p>
+				•	Be a part of various groups of IEEE branch  viz &nbsp;&nbsp;&nbsp;&nbsp;SIG-embedded Programming SIG-Mobile &nbsp;&nbsp;&nbsp;&nbsp;Application etc<br>
+				•	Access to Digital library of IEEE<br>
+				•	Access to Job site of IEEE<br>
+				•	Access to IEEE TV on internet<br>
+				•	OPPORTUNITY to Represent College in &nbsp;&nbsp;&nbsp;&nbsp;Quarterly Meets, other technical talks, etc.<br>
+				•	Test your quality to lead others 
+
+				
+				</p>
+			
+			</div>
+			
+		</article><!-- end .slide (Unique & Clean) -->
+		
+
+	</section><!-- end #features-slider -->
+	
+
+	<ul class="post-carousel">
+
+		<li>
+
+			
+				<img src="img/myieee.png" alt="myieee" class="entry-image">
+			</a>
+
+
+			<div class="entry-body">
+
+				<a href="" target="_blank">
+					
+				</a>
+
+				<p><a class="button" href="https://www.ieee.org/Loginforms/myIEEE/login.html" target="_blank">SIGN IN</a>
+				<a class="button" href="https://www.ieee.org/membership-application/public/login/mymembershiplogin.html" target="_blank">SIGN UP</a></p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+		<li>
+
+			<a href="http://spectrum.ieee.org/" target="_blank">
+				<img src="img/spectrumlogo.jpg" alt="ieee spectrum" class="entry-image">
+			</a>
+
+
+			<div class="entry-body">
+
+				<a href="http://spectrum.ieee.org/" target="_blank">
+					<h5 class="title">IEEE SPECTRUM</h5>
+				</a>
+
+				<p>IEEE Spectrum Magazine, the flagship publication of the IEEE, explores the development, applications and implications of new technologies. It anticipates trends in engineering, science, and technology, and provides a forum for understanding, discussion and leadership in these areas.<br><a href="http://spectrum.ieee.org/" target="_blank">More about IEEE Spectrum</a>
+
+</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+		<li>
+
+			<a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">
+				<img src="img/ieeexplore.jpg" alt="IEEE XPLORE" class="entry-image">
+			</a>
+			<div class="entry-body">
+
+				<a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">
+					<h5 class="title">IEEE XPLORE</h5>
+				</a>
+
+				<p>IEEE Xplore is a scholarly research database that indexes, abstracts, and provides full-text for articles and papers on computer science, electrical engineering and electronics. It is the compendium of the entire work of all the members of IEEE.<br>
+				<a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">Xplore more here</a>
+				</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+		<li>
+
+			<a href="#">
+				<img src="img/workshop.jpg" alt="CONFERENCES AND WORKSHOPS" class="entry-image">
+			</a>
+			<div class="entry-body">
+
+				<a href="#">
+					<h5 class="title">CONFERENCES AND WORKSHOPS</h5>
+				</a>
+
+				<p>
+				<a href="http://www.ghtc-sas.org/" target="_blank">•South Asian Satellite Conference</a><br>
+				<a href="http://www.ieeeaisc2013.org/" target="_blank">•IEEE All India Student Congress</a><br>
+				<a href="http://www.icaer.org.in/" target="_blank">•ICAER’13</a><br>
+				<a href="http://mite2013.poornima.org/" target="_blank">•International conference on MOOC,<br>&nbsp;&nbsp;&nbsp;Innovation and technology</a><br>
+				<a href="http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html" target="_blank">•IEEE Xtreme Programming &nbsp;&nbsp;Competition</a>
+
+				</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+		
+
+	</ul><!-- end .post-carousel -->
+		<ul class="post-carousel">
+		<li>
+
+			<a href="https://ieeetv.ieee.org/" target="_blank">
+				<img src="img/ieeetv.jpg" alt="IEEE TV" class="entry-image">
+			</a>
+			<div class="entry-body">
+
+				<a href="https://ieeetv.ieee.org/" target="_blank">
+					<h5 class="title">IEEE TV</h5>
+				</a>
+
+				<p>IEEE.tv is an award-winning, Internet-based television network. This fruit of innovation was launched in August 2006. IEEE produces and delivers special-interest programming about technology and engineering for the benefit of IEEE's members and the general public.<br>
+				Our ever growing library of programs includes videos on wind power, biomedical engineering, and on recycling computer and electronic products. New programs, recorded in high definition, are added monthly.
+				
+				<a href="https://ieeetv.ieee.org/" target="_blank">Take a moment to tune in to where technology comes alive.</a>
+				
+				</p>	
+			</div><!-- end .entry-body -->
+			
+
+		</li>	
+		<li>
+
+			<a href="http://www.ieee.org/membership_services/membership/students/awards/index.html" target="_blank">
+				<img src="img/ieeesch.jpg" alt="IEEE SCHOLARSHIPS" class="entry-image">
+			</a>
+			<div class="entry-body">
+
+				<a href="http://www.ieee.org/membership_services/membership/students/awards/index.html" target="_blank">
+					<h5 class="title">IEEE SCHOLARSHIPS</h5>
+				</a>
+
+				<p>IEEE offers a variety of scholarships, grants, and fellowships for IEEE Student members. If you have a innovative project or paper for consideration and have the opportunity to win and gain peer recognition for your effort. You can involve in research projects and can initiate a unique research work in the locality and get sponsored by IEEE.  There are 12 different fields and propositions</p>
+				<a href="http://www.ieee.org/membership_services/membership/students/awards/index.html" target="_blank">Your chance is waiting to grab Sponsorships.</a>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+		<li>
+
+			<a href="#">
+				<img src="img/ieeeawd.jpg" alt="" class="entry-image">
+			</a>
+			<div class="entry-body">
+
+				<a href="#">
+					<h5 class="title">IEEE AWARDS</h5>
+				</a>
+
+				<p>The IEEE Awards Program honors members and other professionals for their service to society. The IEEE Awards Board (AB) administers the highest medals, awards, and recognitions presented by IEEE. With this program the institute encourages the students and research fellows to intensify their work. IEEE advances the interests of its members by recognizing their contributions in advancing the fields of interest to IEEE to the benefit of society.</p>
+				<h5 class="title"><a href="http://www.ieee.org/about/awards/index.html" target="_blank">For more details Click here</a></h5>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+		<li>
+
+			<a href="#">
+				<img src="img/recsoc.jpg" alt="" class="entry-image">
+			</a>
+			<div class="entry-body">
+
+				<a href="#">
+					<h5 class="title">RECOMMENDED SOCIETIES</h5>
+				</a>
+				<p>
+				<p>IEEE has 38 technical Societies that provide benefits to members within specialized fields of interest. </p>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMPEL035" target="_blank">1.IEEE Power electronics society membership</a><br>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMPE031" target="_blank">2.IEEE Power and Energy Society</a><br>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMAP003&refProd=MEMAP003" target="_blank">3.IEEE Antennas and Propagation Society</a><br>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMCOM019&refProd=MEMCOM019" target="_blank">4.IEEE Communications Society</a><br>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMC016&refProd=MEMC016" target="_blank">5.IEEE Computer Society</a><br>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMSP001&refProd=MEMSP001" target="_blank">6.IEEE Signal Processing Society</a><br>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMRA024&refProd=MEMRA024" target="_blank">7.IEEE Robotics and Automation Society</a><br>
+				<a href="https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=MEMIA034&refProd=MEMIA034" target="_blank">8.IEEE Industry Applications Society</a><br>
+				
+				</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>
+		<li>
+
+			<a href="http://www.ieee.org/publications_standards/index.html" target="_blank">
+				<img src="img/ieeepub.jpg" alt="" class="entry-image">
+			</a>
+			<div class="entry-body">
+
+				<a href="http://www.ieee.org/publications_standards/index.html" target="_blank">
+					<h5 class="title">RECOMMENDED PUBLICATIONS </h5>
+				</a>
+
+				<p>It is essential to make world hear you. IEEE publications and authors advance theory and practice in key technology areas. IEEE articles and standards are the most highly cited in US and European patents and IEEE journals continue to maintain rankings at the top of their fields.</p>
+					
+			</div><!-- end .entry-body -->
+
+		</li>	
+
+	</ul><!-- end .post-carousel -->
+	<h1>Latest news</h1>
+	<h2>conference and workshops</h2>
+	
+	<div class="two-third">
+
+		<img src ="img/wrk/mat1.jpg" alt="adv img" width="300" height="400"><img src ="img/wrk/mat2.jpg" alt="adv img" width="300" height="400">
+		
+	</div><!-- end .two-third -->
+
+	<div class="one-third last">
+
+		<h4>WORKSHOP DETAILS:</h4>
+		<h6>“Familiarization of MATLAB-SIMULINK”</h6>
+		<h6><strong>Event date:</strong> 23rd Aug.<br> 
+		<strong>Venue: </strong>K L University, Vaddeswaram.</h6>
+		<h5>For more details: </h5>
+		<p><a class="button" href="img/wrk/mat.pdf" target="_blank">Click Here</a></p>
+	</div><!-- end .one-third last -->
+
+	<div class="clear"></div>
+	<h5>This workshop enhances the circuit designing skills and enables the students to simulate the tranquil thoughts. It also paves a way to fill the barrier between Theoretical learning and Practical implementation. This workshop is very much useful to ECE, EEE , ECM and MECH Branch students.<br>
+	  <strong>Description of Workshop:</strong><br>
+	  There are two sessions in this workshop. First session deals with Theoretical elucidation of various blocks, Menu description and importance of Command window present in MATLAB and their utilities.<br>
+	  In this session students will be exposed to the toolkits present in POWER SYSTEMS and POWER ELECTRONICS stream.<br>
+    Second session will be a contest where a real time problem will be given and students will be asked to find the solution through MATLAB. The Winners in this round will be awarded and will receive &quot;A CERTIFICATION OF MERIT” from IEEESB. This really adds a feather to your cap and will be very handy at the time of interviews.</h5>
+</section>
+<!-- end #content -->
+
+<footer id="footer" class="clearfix">
+
+	<div class="container">
+
+		<div class="three-fourth">
+
+			<nav id="footer-nav" class="clearfix">
+
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about-us.html">About IEEE</a></li>
+					<li><a href="brnch-cnst.html">Branch Constitution</a></li>
+					<li><a href="wie.html">WIE</a></li>
+					<li><a href="ev-past.html">events</a>
+					<li><a href="https://www.facebook.com/kluieee" target="_blank">KLU IEEE fb page</a>
+					<li><a href="contact.html">Reach Out</a>
+					
+					
+					</li>
+				</ul>
+				
+			</nav><!-- end #footer-nav -->
+
+			
+			<p>IEEE KLU SB &copy; 2013 &nbsp  &nbsp &nbsp &nbsp
+			
+			Developed in Association with <a href="www.d4devs.com">D4 Devs It Solutions Pvt Ltd</a>
+			
+		</div><!-- end .three-fourth -->
+
+		
+		
+	</div><!-- end .container -->
+
+</footer><!-- end #footer -->
+<footer id="footer-bottom" class="clearfix">
+
+	<div class="container">
+
+		
+
+	</div>
+
+</footer>
+
+
+	<script src="../../ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/jquery-1.7.1.min.js"><\/script>')</script>
+	<script src="js/jquery.ui.widget.min.js"></script>
+	<script src="js/respond.min.js"></script>
+	<script src="js/jquery.easing-1.3.min.js"></script>
+	<script src="js/jquery.fancybox.pack.js"></script>
+	<script src="js/jquery.smartStartSlider.min.js"></script>
+	<script src="js/jquery.jcarousel.min.js"></script>
+	<script src="js/jquery.cycle.all.min.js"></script>
+	<script src="js/jquery.isotope.min.js"></script>
+	<script src="js/audioplayerv1.min.js"></script>
+	<script src="../../maps.google.com/maps/api/jsee3a?sensor=false"></script>
+	<script src="js/jquery.gmap.min.js"></script>
+	<script src="js/jquery.touchSwipe.min.js"></script>
+	<script src="js/custom.js"></script>
+
+</body>
+
+</html>
